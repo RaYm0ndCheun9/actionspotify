@@ -1,0 +1,33 @@
+{
+  "name": "spotify-saved-tracks",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Save your Spotify saved tracks to a file",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "format": "prettier --write '**/*.ts'",
+    "format-check": "prettier --check '**/*.ts'",
+    "format-data": "prettier --write data",
+    "lint": "eslint src/**/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laymonage/spotify-saved-tracks.git"
+  },
+  "keywords": [
+    "spotify",
+    "github"
+  ],
+  "author": "laymonage",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.17.0",
+    "@types/spotify-api": "^0.0.22",
+    "@typescript-eslint/parser": "^6.1.0",
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
