@@ -6,6 +6,7 @@ export function log(message: string): void {
 
 export async function writeJSON(name: string, data: Record<string, unknown>) {
   await mkdir("data/playlists", { recursive: true });
+  await mkdir("data/daylists", { recursive: true });
   await mkdir("data/top/artists", { recursive: true });
   await mkdir("data/top/tracks", { recursive: true });
   await mkdir("data/shows", { recursive: true });
