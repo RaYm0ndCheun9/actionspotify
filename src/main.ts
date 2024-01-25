@@ -180,8 +180,8 @@ async function main() {
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
     // rate limit.
-    log(`Waiting for 500 milliseconds…`);
-    await sleep(500);
+    log(`Waiting for 1000 milliseconds…`);
+    await sleep(1000);
   }
 
   if (!savedTracksPlaylist) {
@@ -245,8 +245,8 @@ async function main() {
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between show requests to avoid hitting the
     // rate limit.
-    log(`Waiting for 500 milliseconds…`);
-    await sleep(500);
+    log(`Waiting for 1000 milliseconds…`);
+    await sleep(1000);
   }
 
   log(`Done!`);
