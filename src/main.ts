@@ -87,11 +87,8 @@ async function main() {
     if (
       playlist.name.toLowerCase().includes("daylist")
     ) {
-      log(
-        `Found ${playlist.name} playlist. Separate storage.`,
-      );
       log(`Writing playlist ${playlist.name} to ${playlist.name}_daylist.json…`);
-      writeJSON(`daylists/${formatDate(new Date())}_daylist`, playlistFull);
+      writeJSON(`playlists/${formatDate(new Date())}_daylist`, playlistFull);
     } else {
       log(`Writing playlist ${playlist.name} to ${playlist.name}_${playlist.id}.json…`);
       writeJSON(`playlists/${playlist.name}_${playlist.id}`, playlistFull);
