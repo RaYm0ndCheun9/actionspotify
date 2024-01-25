@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -211,7 +211,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIVOsAqNJ1dx9>Becky Hill</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIZFhEj3Qdecv>The Chainsmokers</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVOsAqNJ1dx9>Becky Hill</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIV8FVobercpQ>Troye Sivan</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
