@@ -38,6 +38,7 @@ jobs:
       - name: Commit and push
         if: steps.fetch.outcome == 'success'
         run: |
+          echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
           git add data
           git stash
           git switch data || git checkout --orphan data
@@ -45,5 +46,5 @@ jobs:
           rm -rf data
           git restore --source="stash@{0}" data
           git add data
-          git diff --staged --quiet || git commit -m "[$(Date:yyyyMMdd)-$(Hours)$(Minutes)$(Seconds)]Updated data from Spotify"
+          git diff --staged --quiet || git commit -m "[${{env.NOW}}]Updated data from Spotify"
           git push origin data
