@@ -64,9 +64,17 @@ async function main() {
   for (const playlist of playlists) {
     log(`Getting playlist ${playlist.name}…`);
     const playlistFull = await client.getPlaylist(playlist.id, {});
-    {
-      log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
-      writeJSON(`playlists/${playlist.id}`, playlistFull);
+    if (
+      playlist.name.toLowerCase().includes("daylist")
+    ) {
+      log(
+        `Found ${playlist.name} playlist. Separate storage.`,
+      );
+      log(`Writing playlist ${playlist.name} to ${playlist.name}_daylist.json…`);
+      writeJSON(`playlists/daylist/[${new Date().toLocaleString('zh-CN',{dateStyle: 'full',timeStyle: 'short',})}]${playlist.name}`, playlistFull);
+    } else {
+      log(`Writing playlist ${playlist.name} to ${playlist.name}_${playlist.id}.json…`);
+      writeJSON(`playlists/${playlist.name}_${playlist.id}`, playlistFull);
     }
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
@@ -74,7 +82,6 @@ async function main() {
     log(`Waiting for 1000 milliseconds…`);
     await sleep(1000);
   }
-
 
   log(`Done!`);
 }
