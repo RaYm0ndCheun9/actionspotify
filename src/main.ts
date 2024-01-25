@@ -91,7 +91,7 @@ async function main() {
         `Found ${playlist.name} playlist. Separate storage.`,
       );
       log(`Writing playlist ${playlist.name} to ${playlist.name}_daylist.json…`);
-      writeJSON(`playlists/daylist/[${formatDate(new Date())}]_${playlist.name}`, playlistFull);
+      writeJSON(`playlists/daylist/${formatDate(new Date())}_${playlist.name}`, playlistFull);
     } else {
       log(`Writing playlist ${playlist.name} to ${playlist.name}_${playlist.id}.json…`);
       writeJSON(`playlists/${playlist.name}_${playlist.id}`, playlistFull);
