@@ -41,4 +41,4 @@ jobs:
           git add data
           git switch data || git checkout --orphan data
           git diff --staged --quiet || git commit -m "Updated data from Spotify"
-          git push origin data
+          git push data
