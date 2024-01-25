@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIfrUsCopUa6p\">slow jams</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIcxMZBQ3y8Co\">dark pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIcvvJz7Kr7ov\">teen rock</a>, <a href=\"spotify:playlist:37i9dQZF1EIfOPBNnIofh7\">exciting</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfS0ZRAzGri5\">summer</a> and <a href=\"spotify:playlist:37i9dQZF1EIhAIcvkNTvTZ\">warm</a> on Thursday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeOeYgFWKsMl\">nocturnal</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIfbTzmpV3xkg\">learning</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfCThMnXp12G\">chinese music</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -190,7 +190,7 @@
           "width": null
         }
       ],
-      "name": "daylist • delulu winter morning",
+      "name": "daylist • j-pop nocturnal thursday morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDM1MzE3N2RiM2QxNWMwNjJkYjczMGU2ODc1ZjNkZDc1",
+      "snapshot_id": "MCwwMDAwMDAwMDIwZDNlODE4ZDc5NDEwMjY3NjU5MzQxYjNmNmVlYzE3",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
