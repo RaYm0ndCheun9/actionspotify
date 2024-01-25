@@ -374,7 +374,7 @@ export async function createClient(
             })),
           }),
         }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
-        await sleep(100);
+        await sleep(1000);
       }
       return response;
     },
@@ -393,7 +393,7 @@ export async function createClient(
             ),
           }),
         }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
-        await sleep(100);
+        await sleep(1000);
       }
       return response;
     },
