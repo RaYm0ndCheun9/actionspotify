@@ -34,8 +34,8 @@ async function main() {
   log(`Getting all saved tracks…`);
   const tracks = await client.getAllSavedTracks();
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   let total = tracks.length;
   log(`Found ${total} saved tracks.`);
@@ -56,8 +56,8 @@ async function main() {
   log(`Getting all saved albums…`);
   const albums = await client.getAllSavedAlbums();
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   total = albums.length;
   log(`Found ${total} saved albums.`);
@@ -72,8 +72,8 @@ async function main() {
   log(`Writing simplified saved albums data…`);
   writeJSON("albums_simplified", simplifiedOutput);
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   log(`Getting all saved episodes…`);
   const episodes = await client.getAllSavedEpisodes();
@@ -85,8 +85,8 @@ async function main() {
   output = { total, episodes };
   writeJSON("episodes", output);
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   const timeRanges = ["short_term", "medium_term", "long_term"];
   for (const timeRange of timeRanges) {
@@ -110,8 +110,8 @@ async function main() {
     log(`Writing top tracks for ${timeRange} data…`);
     writeJSON(`top/tracks/${timeRange}`, { total, tracks });
 
-    log(`Waiting for 1 second…`);
-    await sleep(1000);
+    log(`Waiting for 1.5 second…`);
+    await sleep(1500);
   }
 
   log(`Getting all followed artists…`);
@@ -124,8 +124,8 @@ async function main() {
   output = { total, artists: followedArtists };
   writeJSON("following", output);
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   log(`Getting all playlists…`);
   let playlists = await client.getAllSavedPlaylists();
@@ -142,8 +142,8 @@ async function main() {
   log(`Writing playlists data…`);
   writeJSON("playlists", output);
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   let savedTracksPlaylist: SpotifyApi.PlaylistObjectSimplified | undefined;
   let savedTracksPlaylistFull:
@@ -221,8 +221,8 @@ async function main() {
     savedTracksPlaylistFull!,
   );
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   log(`Getting all shows…`);
   const shows = await client.getAllSavedShows();
@@ -233,8 +233,8 @@ async function main() {
   output = { total, shows };
   writeJSON("shows", output);
 
-  log(`Waiting for 1 second…`);
-  await sleep(1000);
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
 
   for (const savedShow of shows) {
     log(`Getting show ${savedShow.show.name}…`);
@@ -245,8 +245,8 @@ async function main() {
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between show requests to avoid hitting the
     // rate limit.
-    log(`Waiting for 1000 milliseconds…`);
-    await sleep(1000);
+    log(`Waiting for 1500 milliseconds…`);
+    await sleep(1500);
   }
 
   log(`Done!`);
