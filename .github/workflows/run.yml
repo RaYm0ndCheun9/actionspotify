@@ -45,5 +45,5 @@ jobs:
           rm -rf data
           git restore --source="stash@{0}" data
           git add data
-          git diff --staged --quiet || git commit -m "[${new Date().toISOStrings()}]Updated data from Spotify"
+          git diff --staged --quiet || git commit -m "[$(Date:yyyyMMdd)-$(Hours)$(Minutes)$(Seconds)]Updated data from Spotify"
           git push origin data
