@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIh9CYYxlmhTV\">club classics</a> and <a href=\"spotify:playlist:37i9dQZF1EIdwJU2RRluzZ\">club tracks</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMWNFHMnhs4\">club house</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzCPF4fCC9P\">big room</a>, <a href=\"spotify:playlist:37i9dQZF1EIgOcPOE0ZcBs\">slap house</a>, <a href=\"spotify:playlist:37i9dQZF1EIfdocDH7xUAG\">beat drop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • remix winter afternoon",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDVlOWU1MTMzMmQ5YTQzNTg3ZjEyZDczMDI5ZjU2MTkz",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
