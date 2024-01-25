@@ -16,10 +16,9 @@ function formatDate(date: Date) {
     ' ' +
     [
       padTo2Digits(date.getHours()),
-    ]+'H'+
-    [
       padTo2Digits(date.getMinutes()),
-    ]+'M'
+      padTo2Digits(date.getSeconds()),
+    ].join('.')
   );
 }
 
@@ -87,8 +86,8 @@ async function main() {
     if (
       playlist.name.toLowerCase().includes("daylist")
     ) {
-      log(`Writing playlist ${playlist.name} to corresponding daylist.json…`);
-      writeJSON(`daylists/[${formatDate(new Date())}]${playlist.name}`, playlistFull);
+      log(`Writing playlist ${playlist.name} to ${formatDate(new Date())}.json…`);
+      writeJSON(`daylists/${formatDate(new Date())}`, playlistFull);
     } else {
       log(`Writing playlist ${playlist.name} to ${playlist.name}_${playlist.id}.json…`);
       writeJSON(`playlists/${playlist.name}_${playlist.id}`, playlistFull);
