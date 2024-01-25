@@ -16,7 +16,7 @@ configure the following secrets:
 For more details on how to obtain those values, see
 [Spotify Web API docs][spotify-api].
 
-for REFRESH_TOKEN, you can go to[generator][https://spotify-refresh-token-generator.netlify.app]as aquick way
+for REFRESH_TOKEN, you can go to[generator][https://spotify-refresh-token-generator.netlify.app] as aquick way
 
 For playlists, you can set the `SPOTIFY_PUBLIC_PLAYLISTS_ONLY` to `true` if you
 only want to save public playlists. Otherwise, all playlists will be saved.
