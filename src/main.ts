@@ -88,6 +88,7 @@ async function main() {
     ) {
       log(`Writing playlist ${playlist.name} to ${formatDate(new Date())}.json…`);
       writeJSON(`daylists/${formatDate(new Date())}`, playlistFull);
+      break;
     } 
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
