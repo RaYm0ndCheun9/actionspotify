@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • remix winter afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIh9CYYxlmhTV\">club classics</a> and <a href=\"spotify:playlist:37i9dQZF1EIdwJU2RRluzZ\">club tracks</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMWNFHMnhs4\">club house</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzCPF4fCC9P\">big room</a>, <a href=\"spotify:playlist:37i9dQZF1EIgOcPOE0ZcBs\">slap house</a>, <a href=\"spotify:playlist:37i9dQZF1EIfdocDH7xUAG\">beat drop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDVlOWU1MTMzMmQ5YTQzNTg3ZjEyZDczMDI5ZjU2MTkz",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
