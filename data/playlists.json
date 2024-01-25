@@ -1,0 +1,417 @@
+{
+  "total": 11,
+  "playlists": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1SYfWzM4wOLprLxGNIuOQl"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1SYfWzM4wOLprLxGNIuOQl",
+      "id": "1SYfWzM4wOLprLxGNIuOQl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2732944d4bc055a33479dbe387eab67616d0000b2738f8a358161593abe6f717bbaab67616d0000b273c1a5c0964a78a3315c6bb251ab67616d0000b273e7523d8a01238dda4e547727",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2732944d4bc055a33479dbe387eab67616d0000b2738f8a358161593abe6f717bbaab67616d0000b273c1a5c0964a78a3315c6bb251ab67616d0000b273e7523d8a01238dda4e547727",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2732944d4bc055a33479dbe387eab67616d0000b2738f8a358161593abe6f717bbaab67616d0000b273c1a5c0964a78a3315c6bb251ab67616d0000b273e7523d8a01238dda4e547727",
+          "width": 60
+        }
+      ],
+      "name": "earworm",
+      "owner": {
+        "display_name": "RaYmond Cheung",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/iuwtx2e1ecc7v9v3yaaz8fav8"
+        },
+        "href": "https://api.spotify.com/v1/users/iuwtx2e1ecc7v9v3yaaz8fav8",
+        "id": "iuwtx2e1ecc7v9v3yaaz8fav8",
+        "type": "user",
+        "uri": "spotify:user:iuwtx2e1ecc7v9v3yaaz8fav8"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTAzLDY5NzY1ZjBkYmMyNzQyOWVlY2I0NDZkYTE3ZmNjNTNkYjQ5MmQ0MDc=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1SYfWzM4wOLprLxGNIuOQl/tracks",
+        "total": 76
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1SYfWzM4wOLprLxGNIuOQl"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2mwWAfVQ6PZKezNZwWeXTq"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2mwWAfVQ6PZKezNZwWeXTq",
+      "id": "2mwWAfVQ6PZKezNZwWeXTq",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "width": null
+        }
+      ],
+      "name": "RDRTS Stop 1 Quest",
+      "owner": {
+        "display_name": "RaYmond Cheung",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/iuwtx2e1ecc7v9v3yaaz8fav8"
+        },
+        "href": "https://api.spotify.com/v1/users/iuwtx2e1ecc7v9v3yaaz8fav8",
+        "id": "iuwtx2e1ecc7v9v3yaaz8fav8",
+        "type": "user",
+        "uri": "spotify:user:iuwtx2e1ecc7v9v3yaaz8fav8"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NDQsNjY1MDlkYzg1Zjc3NDRmZWU2OGM3MjY3MTY5YmY1YjljNTRmOWYyYg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2mwWAfVQ6PZKezNZwWeXTq/tracks",
+        "total": 35
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2mwWAfVQ6PZKezNZwWeXTq"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6Cn7DaeOTWco0nG3noj4s1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6Cn7DaeOTWco0nG3noj4s1",
+      "id": "6Cn7DaeOTWco0nG3noj4s1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a4445b13d5ee45c4f084fa5ab67616d0000b2738a2c0127d9b631bed0072e13ab67616d0000b273ebff8574dfd970cc71b5391fab67616d0000b273ff1aa97e1dc765f07bbe1d65",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a4445b13d5ee45c4f084fa5ab67616d0000b2738a2c0127d9b631bed0072e13ab67616d0000b273ebff8574dfd970cc71b5391fab67616d0000b273ff1aa97e1dc765f07bbe1d65",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a4445b13d5ee45c4f084fa5ab67616d0000b2738a2c0127d9b631bed0072e13ab67616d0000b273ebff8574dfd970cc71b5391fab67616d0000b273ff1aa97e1dc765f07bbe1d65",
+          "width": 60
+        }
+      ],
+      "name": "Rhythm Games",
+      "owner": {
+        "display_name": "RaYmond Cheung",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/iuwtx2e1ecc7v9v3yaaz8fav8"
+        },
+        "href": "https://api.spotify.com/v1/users/iuwtx2e1ecc7v9v3yaaz8fav8",
+        "id": "iuwtx2e1ecc7v9v3yaaz8fav8",
+        "type": "user",
+        "uri": "spotify:user:iuwtx2e1ecc7v9v3yaaz8fav8"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NDEsODBjYmJhNmFmMzBhOTE0Nzk4MDY3ZjI0ZWI3NjFmMWUzNzNlOWYxNw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6Cn7DaeOTWco0nG3noj4s1/tracks",
+        "total": 35
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6Cn7DaeOTWco0nG3noj4s1"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4nbgmN7ORYxy65EtqUW2mn"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4nbgmN7ORYxy65EtqUW2mn",
+      "id": "4nbgmN7ORYxy65EtqUW2mn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2735c02ac6b1fa1137d7d5b4354ab67616d0000b2736cd9798b6ace10ff98d1abddab67616d0000b2737a642f7a662f4c94683ac038ab67616d0000b2737ed82049cec82ea803874d2c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2735c02ac6b1fa1137d7d5b4354ab67616d0000b2736cd9798b6ace10ff98d1abddab67616d0000b2737a642f7a662f4c94683ac038ab67616d0000b2737ed82049cec82ea803874d2c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2735c02ac6b1fa1137d7d5b4354ab67616d0000b2736cd9798b6ace10ff98d1abddab67616d0000b2737a642f7a662f4c94683ac038ab67616d0000b2737ed82049cec82ea803874d2c",
+          "width": 60
+        }
+      ],
+      "name": "電台收藏",
+      "owner": {
+        "display_name": "RaYmond Cheung",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/iuwtx2e1ecc7v9v3yaaz8fav8"
+        },
+        "href": "https://api.spotify.com/v1/users/iuwtx2e1ecc7v9v3yaaz8fav8",
+        "id": "iuwtx2e1ecc7v9v3yaaz8fav8",
+        "type": "user",
+        "uri": "spotify:user:iuwtx2e1ecc7v9v3yaaz8fav8"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MzgsMTU4YTk1MGRiOWEzN2U0YjVhN2EzM2RkOTE1OGRiNTE1NWEzZTg4Mw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4nbgmN7ORYxy65EtqUW2mn/tracks",
+        "total": 36
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4nbgmN7ORYxy65EtqUW2mn"
+    },
+    {
+      "collaborative": false,
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIfrUsCopUa6p\">slow jams</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIcxMZBQ3y8Co\">dark pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIcvvJz7Kr7ov\">teen rock</a>, <a href=\"spotify:playlist:37i9dQZF1EIfOPBNnIofh7\">exciting</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
+      "id": "37i9dQZF1EP6YuccBxUcC1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "width": null
+        }
+      ],
+      "name": "daylist • delulu winter morning",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDM1MzE3N2RiM2QxNWMwNjJkYjczMGU2ODc1ZjNkZDc1",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+    },
+    {
+      "collaborative": false,
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVOsAqNJ1dx9>Becky Hill</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIZFhEj3Qdecv>The Chainsmokers</a> and more",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7",
+      "id": "37i9dQZF1EQncLwOalG3K7",
+      "images": [
+        {
+          "height": null,
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4EPJlUEBy49EX1wuFOvtjK/en/large",
+          "width": null
+        }
+      ],
+      "name": "Pop Mix",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTcwNjE2MjQwMCwwMDAwMDAwMDE5ZTdkYzIwODU2ZjRiMjUxYWYwM2U5YzE5NGE4NjAz",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EQncLwOalG3K7"
+    },
+    {
+      "collaborative": false,
+      "description": "Party like it’s one of the years between 2010-2019.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX9oegrjMzKDW"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9oegrjMzKDW",
+      "id": "37i9dQZF1DX9oegrjMzKDW",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000038663be06e69f49628cf83a56",
+          "width": null
+        }
+      ],
+      "name": "The Party Hits of the 2010s",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTY4NjgzNDE3NywwMDAwMDAwMGViNDkwODc3YjA5ZGViMWM4MTYwODRiZjVjMmJlZGJi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX9oegrjMzKDW/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX9oegrjMzKDW"
+    },
+    {
+      "collaborative": false,
+      "description": "The songs you loved most this year, all wrapped up.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EM41z7Gk6uow2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM41z7Gk6uow2",
+      "id": "37i9dQZF1EM41z7Gk6uow2",
+      "images": [
+        {
+          "height": null,
+          "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2020",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MjY3NzQ1NjAsMDAwMDAwMDBjOTRlZjZjMjY3ZTg1OTVjOTI0NzdiNjM4NGVjZGE4ZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM41z7Gk6uow2/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EM41z7Gk6uow2"
+    },
+    {
+      "collaborative": false,
+      "description": "Spotify Wrapped presents the songs that you loved most this year.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl",
+      "id": "37i9dQZF1EUMDoJuT8yJsl",
+      "images": [
+        {
+          "height": null,
+          "url": "https://lineup-images.scdn.co/wrapped-2021-top100_LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2021",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDAzOWZkMjgzMjYzOTk0NzA1YjVhMWNjY2EwMmQwN2Fk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EUMDoJuT8yJsl"
+    },
+    {
+      "collaborative": false,
+      "description": "Spotify Wrapped presents the songs that you loved most this year.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1F0sijgNaJdgit",
+      "id": "37i9dQZF1F0sijgNaJdgit",
+      "images": [
+        {
+          "height": null,
+          "url": "https://wrapped-images.spotifycdn.com/image/yts-2022/large/your-top-songs-2022_large_en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2022",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTY2OTkwODk2MiwwMDAwMDAwMGIwYjY1YjMyNjI3ZDRjNzIzZjlkOGYyMzVkY2RjNzc5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1F0sijgNaJdgit/tracks",
+        "total": 101
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1F0sijgNaJdgit"
+    },
+    {
+      "collaborative": false,
+      "description": "Spotify Wrapped presents the songs you loved this year.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
+      "id": "37i9dQZF1Fa1IIVtEpGUcU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://wrapped-images.spotifycdn.com/image/yts-2023/large/your-top-songs-2023_LARGE_en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2023",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTY5OTk4OTcyMCwwMDAwMDAwMGY0ZjgwN2ZjOGVmOWVmNWI5NDY1NmZkNTAwZjg1NGY5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU/tracks",
+        "total": 101
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
+    }
+  ]
+}
