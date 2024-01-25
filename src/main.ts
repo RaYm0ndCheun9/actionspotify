@@ -29,9 +29,21 @@ async function main() {
   log(`Logged in as ${me.display_name} (${me.id}).`);
   writeJSON("me", me);
 
+  log(`Getting all saved tracks…`);
+  const tracks = await client.getAllSavedTracks();
+
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
+
+  let total = tracks.length;
+  log(`Found ${total} saved tracks.`);
+
+  log(`Waiting for 1.5 second…`);
+  await sleep(1500);
+
   log(`Getting all playlists…`);
   let playlists = await client.getAllSavedPlaylists();
-  let total = playlists.length;
+  total = playlists.length;
   log(`Found ${total} playlists.`);
 
   if (process.env.SPOTIFY_PUBLIC_PLAYLISTS_ONLY === "true") {
@@ -47,11 +59,22 @@ async function main() {
   log(`Waiting for 1.5 second…`);
   await sleep(1500);
 
+  let playlistTrackUris = new Set<string>();
+
+  for (const playlist of playlists) {
+    log(`Getting playlist ${playlist.name}…`);
+    const playlistFull = await client.getPlaylist(playlist.id, {});
+    {
+      log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
+      writeJSON(`playlists/${playlist.id}`, playlistFull);
+    }
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
     // rate limit.
     log(`Waiting for 1000 milliseconds…`);
     await sleep(1000);
+  }
+
 
   log(`Done!`);
 }
