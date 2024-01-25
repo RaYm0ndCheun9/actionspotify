@@ -3,6 +3,26 @@ import {
   createClient,
 } from "./spotify";
 
+function padTo2Digits(num: number) {
+  return num.toString().padStart(2, '0');
+}
+function formatDate(date: Date) {
+  return (
+    [
+      date.getFullYear(),
+      padTo2Digits(date.getMonth() + 1),
+      padTo2Digits(date.getDate()),
+    ].join('-') +
+    ' ' +
+    [
+      padTo2Digits(date.getHours()),
+    ]+'H'+
+    [
+      padTo2Digits(date.getMinutes()),
+    ]+'M'
+  );
+}
+
 async function main() {
   const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID as string;
   const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET as string;
@@ -71,7 +91,7 @@ async function main() {
         `Found ${playlist.name} playlist. Separate storage.`,
       );
       log(`Writing playlist ${playlist.name} to ${playlist.name}_daylist.json…`);
-      writeJSON(`playlists/daylist/[${new Date().toLocaleString('zh-CN',{dateStyle: 'full',timeStyle: 'short',})}]${playlist.name}`, playlistFull);
+      writeJSON(`playlists/daylist/[${formatDate(new Date())}]_${playlist.name}`, playlistFull);
     } else {
       log(`Writing playlist ${playlist.name} to ${playlist.name}_${playlist.id}.json…`);
       writeJSON(`playlists/${playlist.name}_${playlist.id}`, playlistFull);
