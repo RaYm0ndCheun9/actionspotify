@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhA3apoIYlV8\">happy indie</a> and <a href=\"spotify:playlist:37i9dQZF1EIhB3GOAbXG9l\">eclectic</a> on Friday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfdocDH7xUAG\">beat drop</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • beat drop winter friday afternoon",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDhmMjNjOTQ0OTk1MjYxZGQ2Y2E3ZDMyNmY5NjhjMGRl",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
