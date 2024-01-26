@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> on Thursday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, <a href=\"spotify:playlist:37i9dQZF1EId7qEyQcnLhc\">crunchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIhnL1ypMqcIh\">soul crushing</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a>, <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeZjQh5LX1AC\">stomp and holler</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • winter autumn thursday late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc2YjNmMDQ5MzJmNmM3ZTYzZjMxNGVhN2U1YWI2MzM0",
+      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
