@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgYDX2hGD0T9\">whimsical</a> and <a href=\"spotify:playlist:37i9dQZF1EIgcY9AjYFMPE\">indietronica</a> on Friday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIcNUtFW3CJZc\">soft</a>, <a href=\"spotify:playlist:37i9dQZF1EIeHInVFjyC5v\">songwriter</a>, <a href=\"spotify:playlist:37i9dQZF1EIerV7MkE62Mz\">emotional</a>, <a href=\"spotify:playlist:37i9dQZF1EIf7xoQBl4aZ1\">heartbroken</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • mellow soft friday morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+      "snapshot_id": "MCwwMDAwMDAwMDQ3OGNmNjViODg3MTYxYWI3NjFiMzY2NjY3MmMzOTEw",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
