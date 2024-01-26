@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczpKxHzTt1a\">rhythmic</a> and <a href=\"spotify:playlist:37i9dQZF1EId9qB4QmjbXF\">requiem</a> on Thursday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EId9qB4QmjbXF\">requiem</a>, <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a>, and <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -190,7 +190,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • nerdy j-pop thursday night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+      "snapshot_id": "MCwwMDAwMDAwMDFlNDk2Njg2MTM1YWJlYWQwYzcyM2VkMDUzMjUyNTNl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
