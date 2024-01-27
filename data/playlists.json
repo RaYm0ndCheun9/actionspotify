@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> on Fridays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIcrheK2nEakm\">bittersweet</a>, <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • chill mellow friday",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDY1ZDJmNTQ2MTFlY2U4YTkyOWI2NTE4MmI1MGVkNzIx",
+      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
