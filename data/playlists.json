@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf6furgPXae6\">chaotic</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, and <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • idol pops morning",
+      "name": "daylist • dance club afternoon",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDllOGMxODE4YWI0NzZkMDY4NzMxODY5OTc4OTBjNWQ2",
+      "snapshot_id": "MCwwMDAwMDAwMDk5ZWNkYWNlNDk3MzlkOTYxM2FmYzQ3MGJjZmMxMzFi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
