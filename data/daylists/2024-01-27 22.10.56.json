@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • obsessed fun saturday",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> on Saturdays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhNeYdg47zFW\">fun</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIgXHOvcljeog\">bebop</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdzRg9sDFEY3\">party</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDZmODhkMjFmMGNiMWZiNDBmZTc1NDU0ODFlNWIxNWFj",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
