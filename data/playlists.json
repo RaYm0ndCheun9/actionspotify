@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, <a href=\"spotify:playlist:37i9dQZF1EIcvvJz7Kr7ov\">teen rock</a>, <a href=\"spotify:playlist:37i9dQZF1EIfIhwClkyzKs\">getting ready</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfOAUYCXVeOW\">masterpiece</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -190,7 +190,7 @@
           "width": null
         }
       ],
-      "name": "daylist • delulu lyricist morning",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDQ2MWY2M2Q0NzNmOGUyNGEwYzBkMDAwMTc2NDg2ZWNh",
+      "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
