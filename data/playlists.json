@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> on Friday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIcTLLEobJAfn\">modern</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -190,7 +190,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • winter producer friday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMGFhYjZiNDFiZDkyYmIwN2JhZDA0YzRlNzJjYWU1NzA0",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
