@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeKfeI4kVwCE\">visual kei</a> and <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a> on Saturday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIgOcPOE0ZcBs\">slap house</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -186,11 +186,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • dj slap house saturday evening",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4MzczMDFjNGYyYmY1MGZhZDI3MGJiYWI4ZjE4MTFi",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -211,7 +211,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIV8FVobercpQ>Troye Sivan</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -220,7 +220,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6sFIWsNpZYqfjUpaCgueju/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/3WGpXCj9YhhfX11TToZcXP/en/large",
           "width": null
         }
       ],
@@ -235,7 +235,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjMzNTIwMCwwMDAwMDAwMGNhZjAyYzgxYjI1MTc5NTVjNTNiMDIyODg1Y2JjMWRl",
+      "snapshot_id": "MTcwNjQyMTYwMCwwMDAwMDAwMGIxNTI5YjVlYTA3NWEyNTllMTJiZDljOWI4ZmRlMzZi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
