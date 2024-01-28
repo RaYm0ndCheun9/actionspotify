@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIh9CYYxlmhTV\">club classics</a> and <a href=\"spotify:playlist:37i9dQZF1EIdwJU2RRluzZ\">club tracks</a> on Sunday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeMWNFHMnhs4\">club house</a>, <a href=\"spotify:playlist:37i9dQZF1EIgcpVJMDTluJ\">electro house</a>, <a href=\"spotify:playlist:37i9dQZF1EIhk5EVdES3VJ\">bass</a>, <a href=\"spotify:playlist:37i9dQZF1EIdYGLEcJ1MOg\">tech house</a>, <a href=\"spotify:playlist:37i9dQZF1EIgOcPOE0ZcBs\">slap house</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf9l7ez5L0Ms\">bouncy</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • dj club house sunday afternoon",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+      "snapshot_id": "MCwwMDAwMDAwMDNhYjIyZTVlZjFiMTAxYjBkODdlNDJjN2QwNDUwZjk4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
