@@ -18,6 +18,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull origin data
       - uses: actions/setup-node@v4
         with:
           node-version: 18
@@ -42,7 +43,6 @@ jobs:
       - name: Commit and push
         if: steps.fetch.outcome == 'success'
         run: |
-          git pull origin data
           git add data
           git stash
           git switch data || git checkout --orphan data
