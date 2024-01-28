@@ -46,7 +46,7 @@ jobs:
           git add data
           git stash
           git switch data || git checkout --orphan data
-          git pull origin step1
+          git pull origin data
           git reset
           rm -rf data
           git restore --source="stash@{0}" data
