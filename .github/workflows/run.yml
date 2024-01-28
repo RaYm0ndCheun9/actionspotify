@@ -42,6 +42,7 @@ jobs:
       - name: Commit and push
         if: steps.fetch.outcome == 'success'
         run: |
+          git pull origin data
           git add data
           git stash
           git switch data || git checkout --orphan data
