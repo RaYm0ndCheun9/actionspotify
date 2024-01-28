@@ -177,7 +177,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> at night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIfLsNkMlk6ge\">beats</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -190,7 +190,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • dj remix night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -201,7 +201,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+      "snapshot_id": "MCwwMDAwMDAwMGE3NWJmYTBmZDMxYzJiZmIxOWEyMjVhMGUyZTViYWU5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
