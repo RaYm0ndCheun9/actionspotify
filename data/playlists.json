@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a> and <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a> on Sunday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhPHE6I5H5A1\">throwback pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>, <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • nostalgia lip sync sunday late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDNmOWJhODI2YTQwNDcwNTBkZTFlYWU4NjUxNjAwOGRj",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVOsAqNJ1dx9>Becky Hill</a>, <a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/1Xylc3o4UrD53lo9CvFvVg/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4EPJlUEBy49EX1wuFOvtjK/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjQyMTYwMCwwMDAwMDAwMGQzZGFlMGY0NTRlYTQwODI3ZTQ4MjM3ZDQ0MmZjYzQx",
+      "snapshot_id": "MTcwNjUwODAwMCwwMDAwMDAwMDJmMDA3OTNiMTBkMWUyMzlhYzJkMDUxN2YxOTRjY2Y2",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
