@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • lo-fi beats studying sunday evening",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcZvIxN5tRy3\">lo-fi</a> and <a href=\"spotify:playlist:37i9dQZF1EIhEi7Pkk9bp6\">coding</a> on Sunday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcZvIxN5tRy3\">lo-fi</a>, <a href=\"spotify:playlist:37i9dQZF1EIfMdgv54LYV9\">studying</a>, <a href=\"spotify:playlist:37i9dQZF1EIfk2N1Y8uPoA\">relaxing</a>, <a href=\"spotify:playlist:37i9dQZF1EIcoPuAATP6wh\">instrumental</a>, <a href=\"spotify:playlist:37i9dQZF1EIeeirnxqsZ1h\">lounge</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfLsNkMlk6ge\">beats</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMDEzYzA5MjNmYzU4N2E2NDExYzkxYjhhYzgwZDc4NTNl",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
