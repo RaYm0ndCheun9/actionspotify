@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • nostalgia lip sync sunday night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a> and <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a> on Sunday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhPHE6I5H5A1\">throwback pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>, <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+  "snapshot_id": "MCwwMDAwMDAwMDQ2ZWY1MmQzNzg0OTIyZThkN2E2ZGU2NTAwZDllMTUz",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
