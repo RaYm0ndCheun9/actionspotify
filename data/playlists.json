@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIf4FFU8lTSb1\">21st century</a> and <a href=\"spotify:playlist:37i9dQZF1EIcvMG9dMEvvC\">saxophone</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIfIhwClkyzKs\">getting ready</a>, <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • obsessed baddie early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+      "snapshot_id": "MCwwMDAwMDAwMGYwODAwYTU3NDUxZGQyMjczZWIzMjViOTQ5ODczMTJh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
