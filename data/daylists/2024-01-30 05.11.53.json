@@ -8,14 +8,14 @@
   "id": "37i9dQZF1EP6YuccBxUcC1",
   "images": [
     {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+      "url": "https://daylist.spotifycdn.com/playlist-covers/evening_default.jpg",
       "height": null,
       "width": null
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • dj remix monday evening",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIglc0ePjxsND\">epic</a> and <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a> on Monday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeBQQL9SHmkZ\">motivation</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+  "snapshot_id": "MCwwMDAwMDAwMDNlMGE2NWIyYTVlNjQxZGYxYjI2MGNjMzVjOGMwMmRm",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
