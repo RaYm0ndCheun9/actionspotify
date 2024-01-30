@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIg2PPUo1Nkj7\">laid back</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdYTnm0tSIu7\">positive</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a> and <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, <a href=\"spotify:playlist:37i9dQZF1EIfIhwClkyzKs\">getting ready</a>, <a href=\"spotify:playlist:37i9dQZF1EIcvvJz7Kr7ov\">teen rock</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfOAUYCXVeOW\">masterpiece</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • chill pop scream early morning",
+      "name": "daylist • delulu scream morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDA3MmRmYzg4YmM5NjZmYjUzMDI1ZGRkMDVmMWI3Njk2",
+      "snapshot_id": "MCwwMDAwMDAwMGFhZGE4ZTY3MTJmNTc0ZWRkZDI5ZDZlYTZjMzI4NTM0",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
