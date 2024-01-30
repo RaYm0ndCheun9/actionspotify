@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIewBQXNbngY5\">orchestra</a> and <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgb73hpWFtGC\">liquid funk</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • dance electro early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+      "snapshot_id": "MCwwMDAwMDAwMDZjY2Y2YWQwMTZiYmFhZDIxM2MzMTNmNDJlZTc4MDFl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
