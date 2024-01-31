@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • europop hyperpop tuesday late night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcVD7Tg8a0MY\">energetic</a> and <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a> on Tuesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdCkoOiqcUQd\">glam</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfImcdp5Ixa4\">catwalk</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+  "snapshot_id": "MCwwMDAwMDAwMDE1MjBiMzJhYTEzNDUyNzhhZDQ3ZWZmNzk1MTQ3ZWFh",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
@@ -13810,7 +13810,7 @@
         "id": "04w6RjedkvhojBqAFyxI70",
         "is_local": false,
         "name": "uhoh",
-        "popularity": 54,
+        "popularity": 53,
         "preview_url": null,
         "track": true,
         "track_number": 5,
