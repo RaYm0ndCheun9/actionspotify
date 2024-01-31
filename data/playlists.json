@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcVD7Tg8a0MY\">energetic</a> and <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a> on Tuesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdCkoOiqcUQd\">glam</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfImcdp5Ixa4\">catwalk</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a> in the late night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIcH7gCiYyZgi\">pops</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgYDX2hGD0T9\">whimsical</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • europop hyperpop tuesday late night",
+      "name": "daylist • j-rock anime late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDE1MjBiMzJhYTEzNDUyNzhhZDQ3ZWZmNzk1MTQ3ZWFh",
+      "snapshot_id": "MCwwMDAwMDAwMDMwNDQzMDVkOGRiMDYzNmVlOWI0NDVhODNiMGJlMjRm",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
