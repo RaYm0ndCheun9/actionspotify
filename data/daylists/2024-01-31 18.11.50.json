@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • dj house afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBQQL9SHmkZ\">motivation</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeKh45OZ1ylm\">techno</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDk1MDQ0OGEzODhiNzMwMDJlN2M1OWNjMzEzMTM1YzI2",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
