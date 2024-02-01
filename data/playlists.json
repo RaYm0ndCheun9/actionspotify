@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIherXksVvnrN\">drum and bass</a> and <a href=\"spotify:playlist:37i9dQZF1EIgcQRsK4EqAM\">pop house</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>, <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIcGXu1Qqzeso\">funky house</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, and <a href=\"spotify:playlist:37i9dQZF1EIe4rHsZEGpND\">dance house</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • happy dance interval afternoon",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDBlZTAxNmNiNGUyMzQ4ZDBjYzRkN2EwNWYyMjViYTBj",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
