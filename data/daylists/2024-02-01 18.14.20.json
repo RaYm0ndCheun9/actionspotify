@@ -8,14 +8,14 @@
   "id": "37i9dQZF1EP6YuccBxUcC1",
   "images": [
     {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_default.jpg",
+      "url": "https://daylist.spotifycdn.com/playlist-covers/morning_default.jpg",
       "height": null,
       "width": null
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • lyricist situationship thursday morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a> and <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a> on Thursday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDAzODAzNjAwY2Q3ZmFhZGRlMDQ3YzA4ZDU4MjUwY2Mw",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
