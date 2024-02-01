@@ -1,33 +1,5 @@
 {
-  "collaborative": false,
-  "external_urls": {
-    "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
-  },
-  "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1?locale=*",
-  "id": "37i9dQZF1EP6YuccBxUcC1",
-  "images": [
-    {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
-      "height": null,
-      "width": null
-    }
-  ],
-  "primary_color": "#ffffff",
-  "name": "daylist • 21st century orchestra late night",
-  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a> in the late night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf4FFU8lTSb1\">21st century</a>, <a href=\"spotify:playlist:37i9dQZF1EIewBQXNbngY5\">orchestra</a>, <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a>, <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
-  "owner": {
-    "href": "https://api.spotify.com/v1/users/spotify",
-    "id": "spotify",
-    "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
-  },
-  "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGIzNzMzNzljODQyNWNjM2NiNWUzMGQzOTRjODFhOTU4",
+  "error": { "status": 502, "message": "" },
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
@@ -18966,7 +18938,7 @@
         "id": "5gFQ0Gt2IO9qsf5z8LClso",
         "is_local": false,
         "name": "Daylight",
-        "popularity": 17,
+        "popularity": 16,
         "preview_url": "https://p.scdn.co/mp3-preview/761260154f8b9f531eb97a223940287408d4e11d?cid=befa4f60d75c48caa09d333cea2028bb",
         "track": true,
         "track_number": 1,
@@ -22662,7 +22634,7 @@
         "id": "5EGDvIfhcp8xmas20uQhRa",
         "is_local": false,
         "name": "Beach",
-        "popularity": 12,
+        "popularity": 11,
         "preview_url": "https://p.scdn.co/mp3-preview/4318fe3e46c0b4034470774a7140b9f8ce6b8109?cid=befa4f60d75c48caa09d333cea2028bb",
         "track": true,
         "track_number": 1,
