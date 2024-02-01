@@ -140,7 +140,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
+      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
