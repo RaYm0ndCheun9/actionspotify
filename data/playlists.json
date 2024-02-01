@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a> in the late night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf4FFU8lTSb1\">21st century</a>, <a href=\"spotify:playlist:37i9dQZF1EIewBQXNbngY5\">orchestra</a>, <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a>, <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • 21st century orchestra late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGIzNzMzNzljODQyNWNjM2NiNWUzMGQzOTRjODFhOTU4",
+      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
