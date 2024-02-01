@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a>, <a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/1Xylc3o4UrD53lo9CvFvVg/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6LqNN22kT3074XbTVUrhzX/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjY4MDgwMCwwMDAwMDAwMGI5MTg4ZWJiYmU1ODQ4ZjU0YWFhYjU3NGE5MzRiMGNl",
+      "snapshot_id": "MTcwNjc2NzIwMCwwMDAwMDAwMGMxMDUyOGQ1Yzc2ZWM1OWY2MjFiZWE3OWFjYmI4MWUz",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
