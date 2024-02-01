@@ -8,14 +8,14 @@
   "id": "37i9dQZF1EP6YuccBxUcC1",
   "images": [
     {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/evening_default.jpg",
+      "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_default.jpg",
       "height": null,
       "width": null
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • superstar spring wednesday afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIgLkiuIKEUcU\">snare drum</a> on Wednesday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIcUpIbG4Onbg\">futuristic</a>, <a href=\"spotify:playlist:37i9dQZF1EIhx14vjEjMgT\">synthpop</a>, <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMGYwY2QwNWVjMjc1MjYwMzBhMWU2Zjc4ZGM2MDhkYjVk",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
