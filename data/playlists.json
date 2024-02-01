@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a> and <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a> on Wednesday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdCkoOiqcUQd\">glam</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIhNeYdg47zFW\">fun</a>, <a href=\"spotify:playlist:37i9dQZF1EIgXHOvcljeog\">bebop</a>, <a href=\"spotify:playlist:37i9dQZF1EIeU3RFfPV9ui\">energy</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a> and <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a> on Wednesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdCkoOiqcUQd\">glam</a>, <a href=\"spotify:playlist:37i9dQZF1EIgXHOvcljeog\">bebop</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIhNeYdg47zFW\">fun</a>, <a href=\"spotify:playlist:37i9dQZF1EIhlywBJ3kurl\">dark</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • obsessed hyperpop wednesday night",
+      "name": "daylist • obsessed glam wednesday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDU5NDZhNDJiNWUxYjk3ZDdiYTc2ZDJmMjIwMTg1ZmUz",
+      "snapshot_id": "MCwwMDAwMDAwMGNkNjUyZGRjNjVhOTc3MGZlYjczYjIzZDk5NDcxNzhl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a>, <a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/1Xylc3o4UrD53lo9CvFvVg/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6LqNN22kT3074XbTVUrhzX/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjY4MDgwMCwwMDAwMDAwMGI5MTg4ZWJiYmU1ODQ4ZjU0YWFhYjU3NGE5MzRiMGNl",
+      "snapshot_id": "MTcwNjc2NzIwMCwwMDAwMDAwMGMxMDUyOGQ1Yzc2ZWM1OWY2MjFiZWE3OWFjYmI4MWUz",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
