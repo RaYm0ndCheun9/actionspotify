@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeNihuprSCZE\">weirdcore</a> and <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIfyrbcT6TtBr\">campfire</a>, <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>, <a href=\"spotify:playlist:37i9dQZF1EIcNUtFW3CJZc\">soft</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIe3MSm47YMsb\">strut</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>, <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIedw3neyCCCd\">nature</a>, <a href=\"spotify:playlist:37i9dQZF1EId7qEyQcnLhc\">crunchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIfyrbcT6TtBr\">campfire</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • mellow acoustic early morning",
+      "name": "daylist • mountain music granola vibes early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDRhNDg3NTg3YTU5MTEzMjRhNWZmZjgzNzFhN2Y2ZWVh",
+      "snapshot_id": "MCwwMDAwMDAwMGJhNWQzYjE3NDY3N2Q5MGUwNGFhZjc1ZDRjZjExNDRk",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
