@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeNihuprSCZE\">weirdcore</a> and <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIfyrbcT6TtBr\">campfire</a>, <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>, <a href=\"spotify:playlist:37i9dQZF1EIcNUtFW3CJZc\">soft</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • mellow acoustic early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
+      "snapshot_id": "MCwwMDAwMDAwMDRhNDg3NTg3YTU5MTEzMjRhNWZmZjgzNzFhN2Y2ZWVh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
