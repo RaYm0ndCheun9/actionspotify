@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcJNfu3SlFSg\">battle</a> and <a href=\"spotify:playlist:37i9dQZF1EIeLsiT8dSGgI\">video game music</a> on Thursday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIcoPuAATP6wh\">instrumental</a>, <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, <a href=\"spotify:playlist:37i9dQZF1EIgSAfoNxRk9o\">lyrical</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a>, <a href=\"spotify:playlist:37i9dQZF1EIheFK5DLmiWd\">metropopolis</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • j-rock anime thursday evening",
+      "name": "daylist • spring lip sync evening",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDQ1YWE4Yzk1Zjg5MGJlMTg2NjJkNTNlY2QzNWI3YzIz",
+      "snapshot_id": "MCwwMDAwMDAwMGQ0OTE5ODFlNzI4M2U3MjBjZTQ3MDMwNTE0Y2Q5YWY4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
