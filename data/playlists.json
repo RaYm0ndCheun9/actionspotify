@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a>, <a href=\"spotify:playlist:37i9dQZF1EIheFK5DLmiWd\">metropopolis</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczpKxHzTt1a\">rhythmic</a> and <a href=\"spotify:playlist:37i9dQZF1EIhxXwmyTC0jL\">escapism</a> on Thursday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, and <a href=\"spotify:playlist:37i9dQZF1EIflnBhDpupYf\">virtuoso</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • spring lip sync evening",
+      "name": "daylist • j-pop nerdy thursday evening",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGQ0OTE5ODFlNzI4M2U3MjBjZTQ3MDMwNTE0Y2Q5YWY4",
+      "snapshot_id": "MCwwMDAwMDAwMDBkMjNiNGEyYWI1Njk2MDQwNjQ1NGMzZTdiYzNhYzI1",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
