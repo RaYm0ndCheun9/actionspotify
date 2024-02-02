@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczpKxHzTt1a\">rhythmic</a> and <a href=\"spotify:playlist:37i9dQZF1EIhxXwmyTC0jL\">escapism</a> on Thursday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, and <a href=\"spotify:playlist:37i9dQZF1EIflnBhDpupYf\">virtuoso</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • j-pop nerdy thursday evening",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDBkMjNiNGEyYWI1Njk2MDQwNjQ1NGMzZTdiYzNhYzI1",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6LqNN22kT3074XbTVUrhzX/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4IWBUUAFIplrNtaOHcJPRM/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjc2NzIwMCwwMDAwMDAwMGMxMDUyOGQ1Yzc2ZWM1OWY2MjFiZWE3OWFjYmI4MWUz",
+      "snapshot_id": "MTcwNjg1MzYwMCwwMDAwMDAwMDQ0NTg3M2E1Y2NhN2FlYjkxYjc4YmQ3ZTRkMWYwMTRj",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
