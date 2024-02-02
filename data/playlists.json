@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a>, <a href=\"spotify:playlist:37i9dQZF1EIheFK5DLmiWd\">metropopolis</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcJNfu3SlFSg\">battle</a> and <a href=\"spotify:playlist:37i9dQZF1EIeLsiT8dSGgI\">video game music</a> on Thursday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIcoPuAATP6wh\">instrumental</a>, <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, <a href=\"spotify:playlist:37i9dQZF1EIgSAfoNxRk9o\">lyrical</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdkw6xAtbsc4\">vocal</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • spring lip sync afternoon",
+      "name": "daylist • j-rock anime thursday evening",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGYwM2JhZGU2ZTFkMmRkZTBjNjY3ODM0Y2U2YWQ2ZmIz",
+      "snapshot_id": "MCwwMDAwMDAwMDQ1YWE4Yzk1Zjg5MGJlMTg2NjJkNTNlY2QzNWI3YzIz",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
