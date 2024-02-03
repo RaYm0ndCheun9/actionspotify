@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • mellow indie friday night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> on Friday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIcNUtFW3CJZc\">soft</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+  "snapshot_id": "MCwwMDAwMDAwMGViZmI3MzIwYzMyYzc3MDdlMjA5OTVjYmEwMjU3MWRl",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
