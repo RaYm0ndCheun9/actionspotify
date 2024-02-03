@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • j-pop anime morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
+  "snapshot_id": "MCwwMDAwMDAwMGU3ZDBjNjhhOTU1MmRhZmJlYmMzMGVjZmFjMGViMTQw",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
