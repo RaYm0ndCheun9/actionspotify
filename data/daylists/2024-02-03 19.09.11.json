@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • bitter slow pop afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIdxUbI9zkVGR\">contemporary dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIeZjQh5LX1AC\">stomp and holler</a>, <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgb73hpWFtGC\">liquid funk</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDI0YmNmOWRjOGY2OTUyNDA2ZDI0MThjMTVmMWEwYzVl",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
