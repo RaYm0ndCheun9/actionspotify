@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhbegantxwno\">dance cardio</a> and <a href=\"spotify:playlist:37i9dQZF1EIherXksVvnrN\">drum and bass</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdtA1IkngoSY\">chill house</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIfLsNkMlk6ge\">beats</a>, <a href=\"spotify:playlist:37i9dQZF1EIgMYQrzG87Wv\">indie dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwlfJi9BTMY\">progressive house</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> and <a href=\"spotify:playlist:37i9dQZF1EIhdCbS4sZ3VX\">twang</a> on Fridays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfAoIM3ht61G\">mellow</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIcNUtFW3CJZc\">soft</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhB3GOAbXG9l\">eclectic</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • chill house electric afternoon",
+      "name": "daylist • mellow indie friday",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDA4MjE3OWI5MjI2ZmNjMzc4ODlhYzMwZjQ1NmViNzgw",
+      "snapshot_id": "MCwwMDAwMDAwMGNhZTM3MDZkNjgwODE2ZDVhMTQ4NWI1MTBjMDYyNTBh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
