@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "Since you've recently listened to <a href=\"spotify:playlist:37i9dQZF1EIdec6qRjNYma\">melodic techno</a> and <a href=\"spotify:playlist:37i9dQZF1EIgYIh980bgN4\">hands up</a>. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhH28Zd66LuL\">ballad</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>, <a href=\"spotify:playlist:37i9dQZF1EIf7xoQBl4aZ1\">heartbroken</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfk2N1Y8uPoA\">relaxing</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • calm ballad music for this moment",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+      "snapshot_id": "MCwwMDAwMDAwMGI5MzViNTQyMTBlMzk0NDgzOGI5M2Q5NGFlY2EyYjA4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
