@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIV8FVobercpQ>Troye Sivan</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4IWBUUAFIplrNtaOHcJPRM/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/3WGpXCj9YhhfX11TToZcXP/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNjg1MzYwMCwwMDAwMDAwMDQ0NTg3M2E1Y2NhN2FlYjkxYjc4YmQ3ZTRkMWYwMTRj",
+      "snapshot_id": "MTcwNjk0MDAwMCwwMDAwMDAwMDZmYWRjYjgxNjAzN2JhMDBiNWRhNWQ0YmQyYmQwMzFi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
