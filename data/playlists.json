@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "Since you've recently listened to <a href=\"spotify:playlist:37i9dQZF1EIhnGUyOEDCHI\">peaceful</a> and <a href=\"spotify:playlist:37i9dQZF1EIgbU0EpV42y4\">angelic</a>. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIfLsNkMlk6ge\">beats</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIdwtaGmg2yhf\">cheerful</a>, <a href=\"spotify:playlist:37i9dQZF1EIdrEY58wGgwS\">joyful</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf7xoQBl4aZ1\">heartbroken</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • feel good beats music for this moment",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+      "snapshot_id": "MCwwMDAwMDAwMDAwYzA1ODNjZjM0MmQ4YTI1ZjVlMGUxZmRhNzBlNDA4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
