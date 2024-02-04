@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Since you've recently listened to <a href=\"spotify:playlist:37i9dQZF1EIhnGUyOEDCHI\">peaceful</a> and <a href=\"spotify:playlist:37i9dQZF1EIgYIh980bgN4\">hands up</a>. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcE10fGQVrZK\">love song</a>, <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>, <a href=\"spotify:playlist:37i9dQZF1EIhH28Zd66LuL\">ballad</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIf7xoQBl4aZ1\">heartbroken</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfk2N1Y8uPoA\">relaxing</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • love song vocalist music for this moment",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDk0YTNmNmIxMTcwMTZiMTFiZjVhNmUwYWY1NWVlMjIy",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
