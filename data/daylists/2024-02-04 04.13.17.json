@@ -8,14 +8,14 @@
   "id": "37i9dQZF1EP6YuccBxUcC1",
   "images": [
     {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/evening_default.jpg",
+      "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
       "height": null,
       "width": null
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist • upbeat spring evening",
-  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhx14vjEjMgT\">synthpop</a>",
+  "name": "daylist • obsessed winter night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a> at night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIdwtaGmg2yhf\">cheerful</a>, <a href=\"spotify:playlist:37i9dQZF1EIcWVMsqkHkaQ\">moving</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDQzOWZiZmY4OGRmNWNjNWIyZGU2NDM3MmRmZTg0NWY3",
+  "snapshot_id": "MCwwMDAwMDAwMGIxZmZmMjQ5ZWJjZGY3ZmY2MDZlMWQxY2U1MGRjN2Nj",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
