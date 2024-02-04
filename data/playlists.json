@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeKfeI4kVwCE\">visual kei</a> and <a href=\"spotify:playlist:37i9dQZF1EIdf4FT0py4jy\">karaoke</a> on Saturday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIcGXu1Qqzeso\">funky house</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhN0eC7alvxk\">global</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • remix dj saturday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMDA4YTYxNjhiMjU4NGYxMmRmYzI2YzM1MWE5NTdhYWEz",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
