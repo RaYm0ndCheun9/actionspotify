@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a> and <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a> on Sunday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgc2adKgcukY\">relationship</a> and <a href=\"spotify:playlist:37i9dQZF1EIcLyY4fNNQaC\">australian indie</a> on Sunday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf6furgPXae6\">chaotic</a>, <a href=\"spotify:playlist:37i9dQZF1EIerV7MkE62Mz\">emotional</a>, <a href=\"spotify:playlist:37i9dQZF1EIdBi1Hh04aYj\">catchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhrKu07W6FWB\">breakup</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • nostalgia lip sync sunday late night",
+      "name": "daylist • chaotic winter sunday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc5YzAwOTEyZjAzMTI2OTQwMmMwYWZjNjg3YTYwYTc5",
+      "snapshot_id": "MCwwMDAwMDAwMGQ5NWY1Yjg4ZjJhZmYyMWQ1ZDViMWIzZGE2Yjg4Njgy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
