@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdq1kCkR45p1\">lo-fi beats</a> and <a href=\"spotify:playlist:37i9dQZF1EIgKXhXqo61vc\">chill study</a> on Sunday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdHfq5GYKyKY\">future bass</a>, <a href=\"spotify:playlist:37i9dQZF1EIdfQgwgP0wD4\">melodic</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwlfJi9BTMY\">progressive house</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIgxYfnNpP3aP\">trance</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a> and <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a> on Sunday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, <a href=\"spotify:playlist:37i9dQZF1EIhPHE6I5H5A1\">throwback pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • future bass melodic sunday evening",
+      "name": "daylist • nostalgia lip sync sunday night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGNhNTMwYWE3MzM5ZTg5M2JhNDgxYzdhZjQzYjczMjRl",
+      "snapshot_id": "MCwwMDAwMDAwMDkyMWUyNzgxNWJhNGNhZjQxMDRmNDAwNGJjNDRjMDBj",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
