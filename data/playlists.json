@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a> and <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a> on Sunday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgj5AuizhWj0\">guilty pleasure</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • nostalgia lip sync sunday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMDc5YzAwOTEyZjAzMTI2OTQwMmMwYWZjNjg3YTYwYTc5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
