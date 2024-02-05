@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIekhLI4Lf7kF\">art pop</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, <a href=\"spotify:playlist:37i9dQZF1EIeqN8uM5i0Og\">lyricist</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>, <a href=\"spotify:playlist:37i9dQZF1EIfkE4mG1NtgG\">shower</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhmPdaeHzd5o\">cleaning</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • scream manifesting morning",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGE0MDVlYjkzMWMxYjliYzA0M2FjYTA1YzBiM2I5YzI4",
+      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
