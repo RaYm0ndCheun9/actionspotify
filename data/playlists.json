@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a> and <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a> on Sunday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a>, <a href=\"spotify:playlist:37i9dQZF1EIcLOeXqKcPwn\">teen pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfY77dhpsqM6\">belter</a>, <a href=\"spotify:playlist:37i9dQZF1EIhPHE6I5H5A1\">throwback pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfwnmU9xXpuV\">anthem</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • nostalgia lip sync sunday night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMDkyMWUyNzgxNWJhNGNhZjQxMDRmNDAwNGJjNDRjMDBj",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIV8FVobercpQ>Troye Sivan</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/06vEAqcicwoSBw85e8biJx/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6M2wZ9GZgrQXHCFfjv46we/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MTcwNzExMjgwMCwwMDAwMDAwMDY2MmQ1MWUwZTQ0Y2M2ZDBmN2FkMDhlODI1OTUzOWFk",
+      "snapshot_id": "MTcwNzAyNjQwMCwwMDAwMDAwMDliMjIzODQyOWE5OGM3YzYyMzQyOWM5YjAzY2U5NjQz",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
