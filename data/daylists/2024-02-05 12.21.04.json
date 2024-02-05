@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • obsessed western early morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfdlxvuYJkS2\">western</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIdDn5P759aRj\">good mood</a>, <a href=\"spotify:playlist:37i9dQZF1EIcrheK2nEakm\">bittersweet</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+  "snapshot_id": "MCwwMDAwMDAwMGU2ZTlmYmQyYzExMjYyNGMwMWQ1OWEyOWRmOWYxYzVi",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
