@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgc2adKgcukY\">relationship</a> and <a href=\"spotify:playlist:37i9dQZF1EIcLyY4fNNQaC\">australian indie</a> on Sunday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf6furgPXae6\">chaotic</a>, <a href=\"spotify:playlist:37i9dQZF1EIerV7MkE62Mz\">emotional</a>, <a href=\"spotify:playlist:37i9dQZF1EIdBi1Hh04aYj\">catchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhrKu07W6FWB\">breakup</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • chaotic winter sunday late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGQ5NWY1Yjg4ZjJhZmYyMWQ1ZDViMWIzZGE2Yjg4Njgy",
+      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
