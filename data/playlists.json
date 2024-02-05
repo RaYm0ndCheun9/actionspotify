@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdYTnm0tSIu7\">positive</a>, <a href=\"spotify:playlist:37i9dQZF1EIfGZwQT0CBsv\">lip sync</a>, <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdq1kCkR45p1\">lo-fi beats</a> and <a href=\"spotify:playlist:37i9dQZF1EIgKXhXqo61vc\">chill study</a> on Sunday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdHfq5GYKyKY\">future bass</a>, <a href=\"spotify:playlist:37i9dQZF1EIdfQgwgP0wD4\">melodic</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwlfJi9BTMY\">progressive house</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIgxYfnNpP3aP\">trance</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • positive spring evening",
+      "name": "daylist • future bass melodic sunday evening",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDk4NTI0YzQxYjQ0YzVlNDczMDk3N2Q2YmVlYjk2NjY3",
+      "snapshot_id": "MCwwMDAwMDAwMGNhNTMwYWE3MzM5ZTg5M2JhNDgxYzdhZjQzYjczMjRl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
