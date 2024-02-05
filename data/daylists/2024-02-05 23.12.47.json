@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • empowering villain monday",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhj2zUFUJqG1\">nostalgia</a> and <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a> on Mondays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIhyYQ2buKkVp\">walking</a>, <a href=\"spotify:playlist:37i9dQZF1EIdDn5P759aRj\">good mood</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgNZCaOGb0Mi\">angry</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMGRjMDgzZGIwZjI3NzM4NTY0M2UxMDA5YmI2YTE2NjYw",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
