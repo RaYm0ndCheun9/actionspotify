@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • winter 2020s afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>, <a href=\"spotify:playlist:37i9dQZF1EIdDn5P759aRj\">good mood</a>, <a href=\"spotify:playlist:37i9dQZF1EId8PVpOcUztf\">energizing</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDc4NGJiOWYwNDdiMjlmNTNmNjMxYjI4OWVkMjI5N2Rh",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
