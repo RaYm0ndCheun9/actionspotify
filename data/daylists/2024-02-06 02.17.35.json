@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • dance anthem club mix evening",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhMFE5B3C8JI\">club dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a>, <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcGTTk3Djjw3\">pop dance</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMDk2MDk2MjRiOWE2Y2RlY2JjZWYxNmU1YzgzMGQyODZm",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
