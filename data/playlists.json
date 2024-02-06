@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a> on Tuesdays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIcz4rOaz4f3d\">techno dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIgiBDvxXTgu8\">boogie</a>, <a href=\"spotify:playlist:37i9dQZF1EIhk5EVdES3VJ\">bass</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeBQQL9SHmkZ\">motivation</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • electric techno dance tuesday",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+      "snapshot_id": "MCwwMDAwMDAwMDg3M2VhM2IzOWZlYjNhMGUxMzc0OWRkMTY5ZmVmNGQ2",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
