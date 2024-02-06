@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIf9xcFwRrkTm\">electro</a> on Mondays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, <a href=\"spotify:playlist:37i9dQZF1EIhMFE5B3C8JI\">club dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a>, <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcGTTk3Djjw3\">pop dance</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • dance anthem house monday",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDRlZDA0OWJjODRjMzY5MDA0NjgxYWJiMTkyYzYyMTEx",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIV8FVobercpQ>Troye Sivan</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a>, <a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/06vEAqcicwoSBw85e8biJx/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4IWBUUAFIplrNtaOHcJPRM/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDkzOGE3NDIwMTJlOTcyNTc3NzdlMzI4MWEyMzZlNjIy",
+      "snapshot_id": "MCwwMDAwMDAwMGVhOTc0ZDhhNzc4ZDNjNDVmOTYyYWFhZWRhYzM3NGE5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
