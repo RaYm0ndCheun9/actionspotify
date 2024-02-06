@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a> in the morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIf7yiHwN1Qqg\">clubbing</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBQQL9SHmkZ\">motivation</a>, <a href=\"spotify:playlist:37i9dQZF1EIgiBDvxXTgu8\">boogie</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • dance club mix morning",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDJlNTQwMjRkNzBjZjY0NDdkYTlmNDY4MDcyNmFmMzkw",
+      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a>, <a href=spotify:playlist:37i9dQZF1EIVbWXzS04zer>Kesha</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4IWBUUAFIplrNtaOHcJPRM/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/06vEAqcicwoSBw85e8biJx/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGVhOTc0ZDhhNzc4ZDNjNDVmOTYyYWFhZWRhYzM3NGE5",
+      "snapshot_id": "MCwwMDAwMDAwMDBhOGNkN2YyYjRjZDY3NDcyMjZmY2U0MzliNjU2Y2Zj",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
