@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIg6HbQhRGkPb\">uk pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIdThJL1CyWNZ\">running</a> on Tuesday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdThJL1CyWNZ\">running</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIfS0ZRAzGri5\">summer</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6HbQhRGkPb\">uk pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • holiday workout tuesday evening",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+      "snapshot_id": "MCwwMDAwMDAwMDM2Y2Q2NTRjY2JmZWI4Y2Y5OTlmYmU1ZGI0MzIzMzg0",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
