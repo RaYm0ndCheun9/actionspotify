@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • drums dance afternoon",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIg9Ws3DRRW4D\">dream pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>, <a href=\"spotify:playlist:37i9dQZF1EIdtA1IkngoSY\">chill house</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzCPF4fCC9P\">big room</a>, <a href=\"spotify:playlist:37i9dQZF1EIhRtAXRleRSI\">crate digging</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
+  "snapshot_id": "MCwwMDAwMDAwMDk4MWMzNmFhMjUwNjk0NTc0M2QwNWU2Yzg0N2ZjM2Ew",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
