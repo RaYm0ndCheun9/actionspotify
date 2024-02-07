@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a> and <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIfHWWkgusJIY\">idol</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, and <a href=\"spotify:playlist:37i9dQZF1EIduNjI7Jw4Wk\">gyaru</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeixViaiKlLu\">tokusatsu</a> and <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a> on Wednesday early mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzZZPnEVTzA\">collaboration</a>, <a href=\"spotify:playlist:37i9dQZF1EIgb9dZa4uozW\">japanese rap</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgXHOvcljeog\">bebop</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • j-pop anime early morning",
+      "name": "daylist • j-rock anime wednesday early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc0M2FjODE1NTg0ODBhMDdiNjk3MDdmOGNiMzRiYmIx",
+      "snapshot_id": "MCwwMDAwMDAwMGNhOGY0YTI2M2I4MzZiYmJkNDBiNmVlYzM3ODgwNTBl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
