@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIg1XIoy7RWPF\">pilates</a>, <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhN0eC7alvxk\">global</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • dance interval afternoon",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGQxMGJjNTg5Y2U1YTMyYTM4M2RiY2E0M2U4NzVhOWMw",
+      "snapshot_id": "MCwwMDAwMDAwMGMzODNkYTEyMDcyNGNkZTVkYTBhZGNkMmExZTU4NWUy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
