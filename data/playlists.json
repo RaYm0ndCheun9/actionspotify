@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> on Tuesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfImcdp5Ixa4\">catwalk</a>, <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a>, <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>, <a href=\"spotify:playlist:37i9dQZF1EIe3MSm47YMsb\">strut</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdhI4vUCRUcO\">bubblegum pop</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • europop hyperpop tuesday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMGU1OTY4ZDkwNmNjYjk4MTU0MjdhNzI4ODIyMGJlYzFh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a>, <a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/06vEAqcicwoSBw85e8biJx/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6M2wZ9GZgrQXHCFfjv46we/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDBhOGNkN2YyYjRjZDY3NDcyMjZmY2U0MzliNjU2Y2Zj",
+      "snapshot_id": "MCwwMDAwMDAwMDI1NTI1ZjE4YjdjNjJlNDlkMTNkMDJkMjkyZTU0MDM3",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50

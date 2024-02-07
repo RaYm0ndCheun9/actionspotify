@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • europop hyperpop tuesday late night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> on Tuesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIfImcdp5Ixa4\">catwalk</a>, <a href=\"spotify:playlist:37i9dQZF1EIhifra1MG6HV\">mcbling</a>, <a href=\"spotify:playlist:37i9dQZF1EIgGUVZt1S0yw\">popping</a>, <a href=\"spotify:playlist:37i9dQZF1EIe3MSm47YMsb\">strut</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdhI4vUCRUcO\">bubblegum pop</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+  "snapshot_id": "MCwwMDAwMDAwMGU1OTY4ZDkwNmNjYjk4MTU0MjdhNzI4ODIyMGJlYzFh",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
