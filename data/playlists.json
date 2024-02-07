@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIg9Ws3DRRW4D\">dream pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIf0BQmkac8Lc\">pop edm</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe1tyivKwyQp\">drums</a>, <a href=\"spotify:playlist:37i9dQZF1EIdtA1IkngoSY\">chill house</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzCPF4fCC9P\">big room</a>, <a href=\"spotify:playlist:37i9dQZF1EIhRtAXRleRSI\">crate digging</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • drums dance afternoon",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDk4MWMzNmFhMjUwNjk0NTc0M2QwNWU2Yzg0N2ZjM2Ew",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDI1NTI1ZjE4YjdjNjJlNDlkMTNkMDJkMjkyZTU0MDM3",
+      "snapshot_id": "MCwwMDAwMDAwMDIyNzg1NGM3NzQ5MzUxYzFmOWM1NTZhYmQzNGYzOGRl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
