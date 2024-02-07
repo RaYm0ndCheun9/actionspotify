@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • j-rock anime wednesday early morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeixViaiKlLu\">tokusatsu</a> and <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a> on Wednesday early mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIdzZZPnEVTzA\">collaboration</a>, <a href=\"spotify:playlist:37i9dQZF1EIgb9dZa4uozW\">japanese rap</a>, <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>, and <a href=\"spotify:playlist:37i9dQZF1EIgXHOvcljeog\">bebop</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+  "snapshot_id": "MCwwMDAwMDAwMGNhOGY0YTI2M2I4MzZiYmJkNDBiNmVlYzM3ODgwNTBl",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
