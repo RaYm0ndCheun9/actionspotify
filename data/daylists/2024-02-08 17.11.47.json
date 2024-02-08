@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • empowering spring thursday morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIfS0ZRAzGri5\">summer</a> on Thursday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, <a href=\"spotify:playlist:37i9dQZF1EIgNZCaOGb0Mi\">angry</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6HbQhRGkPb\">uk pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIcTJd6deKTWm\">scream</a>, and <a href=\"spotify:playlist:37i9dQZF1EIh64NM6OwM8k\">alt z</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
+  "snapshot_id": "MCwwMDAwMDAwMDUzNTU1MDAzZTEyOWVmODMzMTIxMTg1ZDllOTM5Yjdk",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
