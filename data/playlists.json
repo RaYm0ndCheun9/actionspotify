@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> and <a href=\"spotify:playlist:37i9dQZF1EIgLkiuIKEUcU\">snare drum</a> on Wednesday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a>, <a href=\"spotify:playlist:37i9dQZF1EIekhLI4Lf7kF\">art pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhx14vjEjMgT\">synthpop</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> and <a href=\"spotify:playlist:37i9dQZF1EIgLkiuIKEUcU\">snare drum</a> on Wednesday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a>, <a href=\"spotify:playlist:37i9dQZF1EIekhLI4Lf7kF\">art pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhx14vjEjMgT\">synthpop</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • spring superstar wednesday evening",
+      "name": "daylist • spring superstar wednesday night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDg4MzBjMTI3MGQ1NjAxMDZmN2RjNDgxMTU5MGNjNjQ0",
+      "snapshot_id": "MCwwMDAwMDAwMDYyZDcwNTExODM5N2MzMGY0MWNmNjY0YWYzNzU2NGZm",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6M2wZ9GZgrQXHCFfjv46we/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/0wnYgCeP013HkKoOyC5V32/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDIyNzg1NGM3NzQ5MzUxYzFmOWM1NTZhYmQzNGYzOGRl",
+      "snapshot_id": "MCwwMDAwMDAwMGE1NjhkNmZjYzhjMDk0YWI3MWVlNWQ4MjQ4ZDY4ZGE2",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
