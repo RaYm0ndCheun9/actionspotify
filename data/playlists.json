@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> and <a href=\"spotify:playlist:37i9dQZF1EIgLkiuIKEUcU\">snare drum</a> on Wednesday evenings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIdvCJcfTFhUc\">superstar</a>, <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a>, <a href=\"spotify:playlist:37i9dQZF1EIekhLI4Lf7kF\">art pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIhx14vjEjMgT\">synthpop</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • spring superstar wednesday evening",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDg4MzBjMTI3MGQ1NjAxMDZmN2RjNDgxMTU5MGNjNjQ0",
+      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
