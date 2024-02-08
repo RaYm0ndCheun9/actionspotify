@@ -58,7 +58,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb0c8f49e7d2f809015ef89658",
           "width": null
         }
       ],
@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a> and <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a> on Wednesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf4FFU8lTSb1\">21st century</a>, <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a>, <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a>, <a href=\"spotify:playlist:37i9dQZF1EIewBQXNbngY5\">orchestra</a>, <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • 21st century live music wednesday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+      "snapshot_id": "MCwwMDAwMDAwMDQwZWY3ZjMyZTk3YTZmOTNlYmY2NDBjYzk2NmE1OTZi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50

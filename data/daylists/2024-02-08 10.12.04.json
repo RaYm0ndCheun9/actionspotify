@@ -8,14 +8,14 @@
   "id": "37i9dQZF1EP6YuccBxUcC1",
   "images": [
     {
-      "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_default.jpg",
+      "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
       "height": null,
       "width": null
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • 21st century live music wednesday late night",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a> and <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a> on Wednesday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf4FFU8lTSb1\">21st century</a>, <a href=\"spotify:playlist:37i9dQZF1EId4SJf7JsiRJ\">live music</a>, <a href=\"spotify:playlist:37i9dQZF1EIglSBPit4Gq1\">symphony</a>, <a href=\"spotify:playlist:37i9dQZF1EIewBQXNbngY5\">orchestra</a>, <a href=\"spotify:playlist:37i9dQZF1EIhANJIix7LSH\">vocalist</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+  "snapshot_id": "MCwwMDAwMDAwMDQwZWY3ZjMyZTk3YTZmOTNlYmY2NDBjYzk2NmE1OTZi",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
@@ -8282,7 +8282,7 @@
         "id": "1ZLNp0xsgqY8bLXiExXv9E",
         "is_local": false,
         "name": "All My Love",
-        "popularity": 18,
+        "popularity": 19,
         "preview_url": "https://p.scdn.co/mp3-preview/073e3b6f5ba5e491b76a479e42dd4d0f0fdcc607?cid=befa4f60d75c48caa09d333cea2028bb",
         "track": true,
         "track_number": 7,
