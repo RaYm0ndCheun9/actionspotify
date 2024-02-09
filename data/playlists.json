@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhdCbS4sZ3VX\">twang</a> and <a href=\"spotify:playlist:37i9dQZF1EIhw615TEmRXK\">gritty</a> on Friday early mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>, <a href=\"spotify:playlist:37i9dQZF1EIg1diNOlUqZZ\">easygoing</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a> on Friday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/early-morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • indie chill winter friday early morning",
+      "name": "daylist • yearning flannel friday morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDVhMTlmMDM0ODZhN2RjZTJjYmQzMGFkZTRkY2ZkMjVi",
+      "snapshot_id": "MCwwMDAwMDAwMGJjZGUzMWM4ZDgzNDY5Y2NjMGRjY2IyODMxZDFlYjAy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc1MTkzOWE2OTU5M2E3MjdiNDhhMTcxZTAxMGEyNDY2",
+      "snapshot_id": "MCwwMDAwMDAwMGE1NjI1MjFjNzRjODg5MjEwODQxMjQ3Yjc4MTIxMWQ4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
