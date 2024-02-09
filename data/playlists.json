@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGE1NjI1MjFjNzRjODg5MjEwODQxMjQ3Yjc4MTIxMWQ4",
+      "snapshot_id": "MCwwMDAwMDAwMGViYjIyZDZlZDg2ZTdjOGRkMjAyYjcwYTk5MTQ2M2M4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
