@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a> and <a href=\"spotify:playlist:37i9dQZF1EIgUmRVc2c5dq\">floaty</a> on Friday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIhMHNZW8S7ky\">groovy</a>, <a href=\"spotify:playlist:37i9dQZF1EIg2PPUo1Nkj7\">laid back</a>, <a href=\"spotify:playlist:37i9dQZF1EIcoRjcNytrb0\">unsigned</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> and <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a> on Fridays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EId7qEyQcnLhc\">crunchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, and <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • fresh indie friday afternoon",
+      "name": "daylist • indie chill wanderlust friday",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDdiZDQ3ODMxZmQxNTcwOGZkYWExMTU5ODIyNmQ3MGNl",
+      "snapshot_id": "MCwwMDAwMDAwMDIzZmNlMmFkNmUzMzg2OTkzYzk4ZTYxNjgwYjI1NzQy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
