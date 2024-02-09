@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdn3zFJhm9CN\">alternative pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a> on Friday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIhB3GOAbXG9l\">eclectic</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdDnHQZhcBHB\">alternative indie</a> and <a href=\"spotify:playlist:37i9dQZF1EIhPaSAWFO9R0\">indie chill</a> on Friday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>, <a href=\"spotify:playlist:37i9dQZF1EIhB3GOAbXG9l\">eclectic</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcoRjcNytrb0\">unsigned</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • indie chill winter friday morning",
+      "name": "daylist • chill indie friday afternoon",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDA0OTk5ZDVjY2NkODZiODhkMTM2ZDY2ZDlmYzU5MWY4",
+      "snapshot_id": "MCwwMDAwMDAwMGFhNGJkNGEwM2U4NDlkZWIyMDYxYzI0ZmUxZGU1NTli",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIUDVOnEqsKFn>Allie X</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/4IWBUUAFIplrNtaOHcJPRM/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/0wnYgCeP013HkKoOyC5V32/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGE1NjI1MjFjNzRjODg5MjEwODQxMjQ3Yjc4MTIxMWQ4",
+      "snapshot_id": "MCwwMDAwMDAwMGViYjIyZDZlZDg2ZTdjOGRkMjAyYjcwYTk5MTQ2M2M4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
