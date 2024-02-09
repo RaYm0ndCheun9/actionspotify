@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> and <a href=\"spotify:playlist:37i9dQZF1EIhdCbS4sZ3VX\">twang</a> on Thursday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>, <a href=\"spotify:playlist:37i9dQZF1EIdu0PHOCYQ71\">acoustic</a>, <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, and <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • winter slow thursday late night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
+      "snapshot_id": "MCwwMDAwMDAwMDBiMDA4Y2E1YjU5YmVjMmU0YjNmZWU0NzgwZTA1MjBi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
