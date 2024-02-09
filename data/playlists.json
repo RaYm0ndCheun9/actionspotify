@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a> on Friday mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIfvipBGiKzgO\">autumn</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • yearning flannel friday morning",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGJjZGUzMWM4ZDgzNDY5Y2NjMGRjY2IyODMxZDFlYjAy",
+      "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
