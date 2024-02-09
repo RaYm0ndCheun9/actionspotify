@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhdCbS4sZ3VX\">twang</a> and <a href=\"spotify:playlist:37i9dQZF1EIhw615TEmRXK\">gritty</a> on Friday early mornings. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, <a href=\"spotify:playlist:37i9dQZF1EIfUEw6AsPt3b\">cozy</a>, <a href=\"spotify:playlist:37i9dQZF1EIg1diNOlUqZZ\">easygoing</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>, <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a>, and <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • indie chill winter friday early morning",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+      "snapshot_id": "MCwwMDAwMDAwMDVhMTlmMDM0ODZhN2RjZTJjYmQzMGFkZTRkY2ZkMjVi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
