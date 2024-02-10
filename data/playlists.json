@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgp9wRFmjopQ\">slow</a> and <a href=\"spotify:playlist:37i9dQZF1EIcRCHBhAAyyL\">healing</a> on Fridays. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIe7zIGYRpjGP\">folksy</a>, <a href=\"spotify:playlist:37i9dQZF1EIeXFUANbVlkW\">mountain</a>, <a href=\"spotify:playlist:37i9dQZF1EIgvT6k4mUrw7\">alternative</a>, <a href=\"spotify:playlist:37i9dQZF1EId7qEyQcnLhc\">crunchy</a>, <a href=\"spotify:playlist:37i9dQZF1EIdn1BABlgnzi\">yearning</a>, and <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/afternoon_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/evening_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • indie chill wanderlust friday",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDIzZmNlMmFkNmUzMzg2OTkzYzk4ZTYxNjgwYjI1NzQy",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
