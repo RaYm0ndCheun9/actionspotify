@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • upbeat spring evening",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> and <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIhEPfUXAzGww\">europop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdihFN4QbIc1\">poppy</a>, <a href=\"spotify:playlist:37i9dQZF1EIdYTnm0tSIu7\">positive</a>, <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMGRiOTVlMjBhN2ExYmUxZjg2ZWNhNTI3YTMwZTgwZDlj",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
