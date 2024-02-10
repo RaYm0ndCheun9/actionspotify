@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • obsessed alt z early morning",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIcsIZ8uw8JQw\">mountain music</a> and <a href=\"spotify:playlist:37i9dQZF1EIeNihuprSCZE\">weirdcore</a> in the early morning. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIh64NM6OwM8k\">alt z</a>, <a href=\"spotify:playlist:37i9dQZF1EIf209TUU9W8X\">fresh</a>, <a href=\"spotify:playlist:37i9dQZF1EIcp9gDZQgPu2\">curious</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMiuh9xsCBI\">viral</a>, <a href=\"spotify:playlist:37i9dQZF1EIcxMZBQ3y8Co\">dark pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdkNI0TjlCJy\">producer</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDI5ZTMwNTI2ZDMwMmJiZDI0NWE5NDk4Nzk4NzA1ZTBl",
+  "snapshot_id": "MCwwMDAwMDAwMGU0ZWMxNjdhMjQ2ZTYyODM5NDNjMGZiZTM3MWUwODJl",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
