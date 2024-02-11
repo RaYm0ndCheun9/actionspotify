@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIhbegantxwno\">dance cardio</a> and <a href=\"spotify:playlist:37i9dQZF1EId9cZrsKjzaP\">deep house</a> on Sunday afternoons. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeMWNFHMnhs4\">club house</a>, <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIcGXu1Qqzeso\">funky house</a>, <a href=\"spotify:playlist:37i9dQZF1EIe1dCdpWzpql\">electric</a>, and <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIgUmRVc2c5dq\">floaty</a> and <a href=\"spotify:playlist:37i9dQZF1EIg6WzaX6zBkQ\">smooth</a> in the afternoon. Here's some: <a href=\"spotify:playlist:37i9dQZF1EId6oQxfiuT1q\">nrg</a>, <a href=\"spotify:playlist:37i9dQZF1EIdwJU2RRluzZ\">club tracks</a>, <a href=\"spotify:playlist:37i9dQZF1EIfFBcHoFk8B1\">future house</a>, <a href=\"spotify:playlist:37i9dQZF1EIeMWNFHMnhs4\">club house</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcGXu1Qqzeso\">funky house</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • dj club house sunday afternoon",
+      "name": "daylist • nrg club tracks afternoon",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDJmYTU4OGY3ZTNkMzcyYThkZmY5NjgwYWI5MGNiZjBi",
+      "snapshot_id": "MCwwMDAwMDAwMDI4ZDhkYTZiOGRlYzhkOGZmYTM1MWU1M2ZjZDUxZDVm",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
