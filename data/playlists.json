@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Since you've recently listened to <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a> and <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeBQQL9SHmkZ\">motivation</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIczFESyphgeB\">ibiza</a>, <a href=\"spotify:playlist:37i9dQZF1EIdThJL1CyWNZ\">running</a>, <a href=\"spotify:playlist:37i9dQZF1EIdt7tQbR8QDN\">dance pop</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcGTTk3Djjw3\">pop dance</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • motivation happy dance music for this moment",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDZjNGUzNGY1NGQxZDlhMTFmMWZiMGEyZTlkMjM3MDE2",
+      "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
