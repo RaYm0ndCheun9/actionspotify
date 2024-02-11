@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIeKfeI4kVwCE\">visual kei</a> and <a href=\"spotify:playlist:37i9dQZF1EIhISVS2LBpCB\">sharp</a> on Saturday late nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIg1XIoy7RWPF\">pilates</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwtJBaoStqi\">funky groove</a>, <a href=\"spotify:playlist:37i9dQZF1EIcGXu1Qqzeso\">funky house</a>, and <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist • pilates dance saturday late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGJiNzA1NTEwYzc4Nzc2MTQ4MzI4NzBlYjA5NDcwZTY1",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
