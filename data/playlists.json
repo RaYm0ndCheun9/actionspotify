@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a> and <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a> in the late night. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIcsHAaTPt2VN\">club</a>, <a href=\"spotify:playlist:37i9dQZF1EIeKIThrui3g9\">remix</a>, <a href=\"spotify:playlist:37i9dQZF1EIfuwjraRofPY\">interval</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIfwtJBaoStqi\">funky groove</a>, and <a href=\"spotify:playlist:37i9dQZF1EIg1XIoy7RWPF\">pilates</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/morning_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • dance club late night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDMwNGEwMmNmYzY3OGI5MTQ5OWE5MmM4NDg0OTJiZWVk",
+      "snapshot_id": "MCwwMDAwMDAwMDZlNDNlYWQ1ZGM3NjA4ZTM5YTdjZGVmZmI5MWMwZWE3",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
