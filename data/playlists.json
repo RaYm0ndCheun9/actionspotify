@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "Your day in a playlist.",
+      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdq1kCkR45p1\">lo-fi beats</a> and <a href=\"spotify:playlist:37i9dQZF1EIgKXhXqo61vc\">chill study</a> on Sunday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, <a href=\"spotify:playlist:37i9dQZF1EIfbTzmpV3xkg\">learning</a>, and <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -144,7 +144,7 @@
           "width": null
         }
       ],
-      "name": "daylist",
+      "name": "daylist • j-pop harmony sunday night",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+      "snapshot_id": "MCwwMDAwMDAwMGVkNmE4YzAyMThiYzc1YTcyNjFjZDRjYTM2Yjc3MzZl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
