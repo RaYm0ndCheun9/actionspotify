@@ -131,7 +131,7 @@
     },
     {
       "collaborative": false,
-      "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIdq1kCkR45p1\">lo-fi beats</a> and <a href=\"spotify:playlist:37i9dQZF1EIgKXhXqo61vc\">chill study</a> on Sunday nights. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIeBF1r9QsRpc\">harmony</a>, <a href=\"spotify:playlist:37i9dQZF1EIczL2fUeGAb1\">anime</a>, <a href=\"spotify:playlist:37i9dQZF1EIeF9GM8hQAbf\">mangas</a>, <a href=\"spotify:playlist:37i9dQZF1EId6Vnoc6NDMx\">loops</a>, <a href=\"spotify:playlist:37i9dQZF1EIfbTzmpV3xkg\">learning</a>, and <a href=\"spotify:playlist:37i9dQZF1EIe4w9lGORQpz\">kawaii</a>",
+      "description": "Your day in a playlist.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
       },
@@ -140,11 +140,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_large.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_large.jpg",
           "width": null
         }
       ],
-      "name": "daylist • j-pop harmony sunday night",
+      "name": "daylist",
       "owner": {
         "display_name": "Spotify",
         "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
@@ -155,7 +155,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGVkNmE4YzAyMThiYzc1YTcyNjFjZDRjYTM2Yjc3MzZl",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -165,7 +165,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a>, <a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVcryzEmZaAT>Griff</a>, <a href=spotify:playlist:37i9dQZF1EIZiKC5T1f2VA>Tate McRae</a>, <a href=spotify:playlist:37i9dQZF1EIWTGm9jnaffG>Rêve</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
       },
@@ -174,7 +174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6sFIWsNpZYqfjUpaCgueju/en/large",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/5RJFJWYgtgWktosLrUDzff/en/large",
           "width": null
         }
       ],
@@ -189,7 +189,7 @@
       },
       "primary_color": null,
       "public": false,
-      "snapshot_id": "MCwwMDAwMDAwMGMyYTVhODgxMzc3YzBlZjRjMzY3OTc4MjM3NmFkYzI3",
+      "snapshot_id": "MCwwMDAwMDAwMDFiZTgxYzI0OGMyODk1NDI3MTM2NTJiODcyYzhjZmY5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
         "total": 50
