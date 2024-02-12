@@ -14,8 +14,8 @@
     }
   ],
   "primary_color": "#ffffff",
-  "name": "daylist",
-  "description": "Your day in a playlist.",
+  "name": "daylist • upbeat summer camp evening",
+  "description": "You listened to <a href=\"spotify:playlist:37i9dQZF1EIho0y4QuRP53\">perfect pop</a> and <a href=\"spotify:playlist:37i9dQZF1EIfCbCpwLkfVz\">renaissance</a> in the evening. Here's some: <a href=\"spotify:playlist:37i9dQZF1EIf68orkYt0JL\">spring</a>, <a href=\"spotify:playlist:37i9dQZF1EIg6HbQhRGkPb\">uk pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdNpRPOFBV9U\">2020s</a>, <a href=\"spotify:playlist:37i9dQZF1EIeRRBUi9Gtdk\">empowering</a>, <a href=\"spotify:playlist:37i9dQZF1EIdYTnm0tSIu7\">positive</a>, and <a href=\"spotify:playlist:37i9dQZF1EIdQcsaxxsPGg\">solo artist</a>",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
   "owner": {
@@ -27,7 +27,7 @@
     "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDliMmE3MzA1NzEyNWY2YTkxZDIyM2M4NmE5ODQzNmEy",
+  "snapshot_id": "MCwwMDAwMDAwMGNlOWVmYjk1YzQ1ZTA2NzNmODQyMjZjZTczMjNkYmZj",
   "tracks": [
     {
       "added_at": "1970-01-01T00:00:00Z",
